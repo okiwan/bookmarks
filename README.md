@@ -7,6 +7,12 @@ My personal bookmarks, for the sake of convenience.
 * [La Cuerda](https://lacuerda.net/)
 * [MusiHacks](https://www.musihacks.com/library)
 
+## Vídeo
+
+* [Amazon Prime Video](https://www.primevideo.com/)
+* [Netflix](https://www.netflix.com/browse)
+* [YouTube](https://www.youtube.com/)
+
 ## Web design
 
 * [Cyrillic Design](https://cyrillic.design/)
