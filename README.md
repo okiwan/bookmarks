@@ -1,6 +1,12 @@
 # bookmarks
 My personal bookmarks, for the sake of convenience.
 
+## Compras
+
+* [Amazon](https://www.amazon.es/)
+* [EBay](https://www.ebay.es/)
+* [Wallapop](https://es.wallapop.com/)
+
 ## Piano
 
 * [Chordify](https://chordify.net/)
