@@ -1,6 +1,17 @@
 # bookmarks
 My personal bookmarks, for the sake of convenience.
 
+## Audio
+
+* [ChilledCow's LoFi Hip Hop Radio](https://www.youtube.com/watch?v=hHW1oY26kxQ)
+* [SoundCloud](https://soundcloud.com/discover)
+* [Kohina](http://www.kohina.com/index.html)
+* [Ibiza Sonica](http://ibizasonica.com/)
+* [Ibiza Global Radio](https://ibizaglobalradio.com/)
+* [iVoox](https://www.ivoox.com/)
+* [PoolSuite FM](https://poolsuite.net/)
+* [Radio Nacional de España](https://www.rtve.es/radio/)
+
 ## Compras
 
 * [Amazon](https://www.amazon.es/)
