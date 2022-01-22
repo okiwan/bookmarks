@@ -18,6 +18,16 @@ My personal bookmarks, for the sake of convenience.
 * [EBay](https://www.ebay.es/)
 * [Wallapop](https://es.wallapop.com/)
 
+## Juegos
+
+* [Open Lara](https://github.com/XProger/OpenLara)
+* [PrinceJS](https://princejs.com/)
+* [TypeRacer](https://play.typeracer.com/)
+
+## Miscelánea
+
+* [Torrent Paradise](https://torrent-paradise.ml/index.html)
+
 ## Piano
 
 * [Chordify](https://chordify.net/)
