@@ -36,6 +36,7 @@ My personal bookmarks, for the sake of convenience.
 
 ## Proveedores
 
+* [Aigües de Barcelona](https://www.aiguesdebarcelona.cat/oficinaenxarxa/ca/group/ofex/home#nbb)
 * [ING Direct](https://ing.ingdirect.es/pfm/#overall-position)
 * [Kutxabank](https://portal.kutxabank.es/cs/Satellite/kb/es/particulares)
 
