@@ -1,6 +1,16 @@
 # bookmarks
 My personal bookmarks, for the sake of convenience.
 
+## Main accesses
+* [Dropbox](https://www.dropbox.com/h)
+* [GMail](https://mail.google.com/mail/u/0/#inbox)
+* [Calendar](https://calendar.google.com/calendar/u/0/r?tab=mc&pli=1)
+* [Trello](https://trello.com/okiwan/boards)
+* [WhatsApp](https://web.whatsapp.com/)
+* [LinkedIn](https://www.linkedin.com/feed/)
+* [Udemy](https://www.udemy.com/)
+* [GitHub](https://github.com/okiwan)
+
 ## Audio
 
 * [ChilledCow's LoFi Hip Hop Radio](https://www.youtube.com/watch?v=hHW1oY26kxQ)
@@ -17,6 +27,13 @@ My personal bookmarks, for the sake of convenience.
 * [Amazon](https://www.amazon.es/)
 * [EBay](https://www.ebay.es/)
 * [Wallapop](https://es.wallapop.com/)
+
+## HomeTeam
+
+* [Getting Started!](https://hometeamgamedev.com/get-started/)
+* [Members Site](https://hometeamgamedev.com/members/index.php)
+* [Slack](https://app.slack.com/client/T0C5LMW9F/C0C5LMW9X)
+* [Trello](https://trello.com/gamkedoclub)
 
 ## Juegos
 
