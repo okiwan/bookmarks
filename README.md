@@ -24,8 +24,13 @@ My personal bookmarks, for the sake of convenience.
 * [PrinceJS](https://princejs.com/)
 * [TypeRacer](https://play.typeracer.com/)
 
-## Miscelánea
+## Others
 
+* [Arcade Database](http://adb.arcadeitalia.net/default.php)
+* [DescargasDD](https://descargasdd.net/)
+* [Internet Archive](https://archive.org/)
+* [Levels FYI](https://www.levels.fyi)
+* [Snowfl](https://snowfl.com/)
 * [Torrent Paradise](https://torrent-paradise.ml/index.html)
 
 ## Piano
