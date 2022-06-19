@@ -50,6 +50,8 @@ My personal bookmarks, for the sake of convenience.
 * [Library Genesis](http://libgen.rs/)
 * [Snowfl](https://snowfl.com/)
 * [Torrent Paradise](https://torrent-paradise.ml/index.html)
+* [Z Library (Libros)](https://es.es1lib.org/)
+* [Z Library (Artículos)](https://es.booksc.org/)
 
 ## Piano
 
