@@ -10,6 +10,7 @@ My personal bookmarks, for the sake of convenience.
 * [LinkedIn](https://www.linkedin.com/feed/)
 * [Udemy](https://www.udemy.com/)
 * [GitHub](https://github.com/okiwan)
+* [Inoreader](https://www.inoreader.com/)
 
 ## Audio
 
@@ -27,13 +28,6 @@ My personal bookmarks, for the sake of convenience.
 * [Amazon](https://www.amazon.es/)
 * [EBay](https://www.ebay.es/)
 * [Wallapop](https://es.wallapop.com/)
-
-## HomeTeam
-
-* [Getting Started!](https://hometeamgamedev.com/get-started/)
-* [Members Site](https://hometeamgamedev.com/members/index.php)
-* [Slack](https://app.slack.com/client/T0C5LMW9F/C0C5LMW9X)
-* [Trello](https://trello.com/gamkedoclub)
 
 ## Juegos
 
