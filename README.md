@@ -37,6 +37,7 @@ My personal bookmarks, for the sake of convenience.
 
 ## Others / Resources
 
+* [Awesome GameBoy Development](https://github.com/okiwan/bookmarks)
 * [Arcade Database](http://adb.arcadeitalia.net/default.php)
 * [DescargasDD](https://descargasdd.net/)
 * [Internet Archive](https://archive.org/)
