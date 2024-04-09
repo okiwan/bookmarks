@@ -54,6 +54,7 @@ My personal bookmarks, for the sake of convenience.
 * [Chordify](https://chordify.net/)
 * [La Cuerda](https://lacuerda.net/)
 * [MusiHacks](https://www.musihacks.com/library)
+* [Ultimate Guitar](https://es.ultimate-guitar.com/)
 
 ## Proveedores
 
