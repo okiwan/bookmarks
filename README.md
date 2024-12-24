@@ -55,6 +55,10 @@ My personal bookmarks, for the sake of convenience.
 * [MusiHacks](https://www.musihacks.com/library)
 * [Ultimate Guitar](https://es.ultimate-guitar.com/)
 
+## Cocina
+
+* [Avozmechef](https://www.avozmechef.es/enrollments)
+
 ## Proveedores
 
 * [Aigües de Barcelona](https://www.aiguesdebarcelona.cat/oficinaenxarxa/ca/group/ofex/home#nbb)
