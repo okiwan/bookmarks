@@ -57,7 +57,7 @@ My personal bookmarks, for the sake of convenience.
 
 ## Cocina
 
-* [Avozmechef](https://www.avozmechef.es/enrollments)
+* [Avozmechef](https://www.avozmechef.es/)
 
 ## Proveedores
 
